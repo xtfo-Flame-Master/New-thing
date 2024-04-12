@@ -20,7 +20,7 @@
 	--syntax-tab-size: 2;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
 	:root {
 		--color-one-20: #e0e0e0;
 		--color-two-50: #C0C0C0;
