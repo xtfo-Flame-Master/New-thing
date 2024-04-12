@@ -7,4 +7,4 @@ eleventyNavigation:
 ---
 # About Me
 
-I am a person that writes stuff.
+I am llor Kcir I know the dedliest attack move. This was banned in 30 states in america.
